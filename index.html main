@@ -776,7 +776,7 @@
               <div class="puzzle-board" id="puzzleBoard">
                 <!-- Merge image fades in over placed pieces on completion -->
                 <img
-                  src="/puzzle-art.png"
+                  src="puzzle-art.png"
                   class="puzzle-merge-img"
                   id="puzzleMergeImg"
                   alt="Our moment under the stars"
@@ -912,6 +912,6 @@
     </div>
     <!-- /mainWebsite -->
 
-    <script src="/script.js?v=2"></script>
+    <script src="/script.js"></script>
   </body>
 </html>
