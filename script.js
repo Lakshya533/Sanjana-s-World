@@ -791,7 +791,7 @@ function setupPuzzle () {
   const img = new Image();
   img.onload = () => buildPuzzle(img);
   img.onerror = () => console.warn('puzzle image failed to load');
-  img.src = '/puzzle-art.png';
+  img.src = 'puzzle-art.png';
 }
 
 function buildPuzzle (img) {
